@@ -35,7 +35,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-go/depura-el-codigo-con-go
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHjLYALHlEnOw/learning-public-crop_675_1200/0/1693912511884?e=1695798000&v=beta&t=evAfha3rXYJYAk4h1wVoB23qWA0h6TfM3opZhwh9ZK8
 
 [1]: # (End of ES-Instruction ###############################################################################################)
