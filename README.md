@@ -36,6 +36,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-go/depura-el-codigo-con-go
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHjLYALHlEnOw/learning-public-crop_675_1200/0/1693912511884?e=1697122800&v=beta&t=CgMVrFLtQbMiQkjASCqfQ7SlFNp98UQMvhh6cPymlwc
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHjLYALHlEnOw/learning-public-crop_675_1200/0/1693912511884?e=2147483647&v=beta&t=yRL7vd7eTfAiEXrP47vUkRAONLC3aqgd09BDQGOGxWA
 
 [1]: # (End of ES-Instruction ###############################################################################################)
